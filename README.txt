@@ -6,4 +6,4 @@ License applied to this software
 	http://www.gnu.org/copyleft/gpl.html
 	as from the copyright holder, xatierlike's message at
 	http://www.plurk.com/p/h6pldd
-
+	see License.version20120901.png as an backup.
